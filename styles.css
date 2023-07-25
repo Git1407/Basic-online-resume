@@ -1,0 +1,60 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+header {   
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1px 0;    
+}
+#education table{
+    border-collapse: collapse;
+}
+section {
+    /* CSS styles for the table */
+#education table ,tr ,th,td {
+    width: 40%;
+    margin-top: 25px;
+    border: 1px solid black;
+    padding: 5px;
+
+}
+
+
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color:green;
+}
+
+
+    padding: 2px;
+    background-color: lightslategrey;
+}
+
+footer {   
+    background-color: lightslategray;
+    color: black;
+    text-align: left;
+    padding: 20px 30px;
+    
+}
+/* h2 { */
+    /* table,th,td { */
+        /* border: 1px solid; */
+        /* padding: 15px; */
+        /* text align:left; */
+    /* } */
+    /* margin-bottom: 0.5px; */
+/* } */
+/* h3, h4 { */
+    /* margin: 0; */
+    /* margin-bottom: 0.5px; */
+/* } */
